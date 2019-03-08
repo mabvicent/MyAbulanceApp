@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ambulancelocator.MainActivity"
+    android:orientation="vertical">
+    <TextView
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:textSize="25dp"
+        android:textAlignment="center"
+        android:background="@color/colorAccent"
+        android:layout_height="wrap_content"
+        android:text="CALL AMBULANCE TO SAVE LIFE"/>
+    <!--<ImageView-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:src="@drawable/ambulance"-->
+        <!--android:layout_marginLeft="120dp"-->
+        <!--android:layout_marginBottom="20dp"-->
+        <!--android:layout_marginTop="20dp"-->
+        <!--android:layout_height="wrap_content" />-->
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:text="A M B U L A N C E"
+        android:id="@+id/ambulance"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="25dp"
+        android:text="P A T I E N T"
+        android:id="@+id/patient"/>
+
+</LinearLayout>

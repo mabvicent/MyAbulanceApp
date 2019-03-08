@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "875567967722",
+    "firebase_url": "https://findambulanceapp.firebaseio.com",
+    "project_id": "findambulanceapp",
+    "storage_bucket": "findambulanceapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875567967722:android:fb9e37a745ede8b0",
+        "android_client_info": {
+          "package_name": "com.example.ambulancelocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875567967722-q2deh8pmkq1gqni4piqlfomtceeo23g4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ambulancelocator",
+            "certificate_hash": "a813d3233f0869edc4d53a370b75469c9777b91b"
+          }
+        },
+        {
+          "client_id": "875567967722-tocv13o9ssg3d2onf04k83ikk5nnsl7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASuO2h7btCfUjqBLDp6xvyLRFtPxBe32Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875567967722-tocv13o9ssg3d2onf04k83ikk5nnsl7b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
